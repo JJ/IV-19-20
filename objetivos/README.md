@@ -9,7 +9,7 @@ cumplidos, pero mas adelante podría ser otra cosa.
 Ya deberías tener un *fork* de éste repositorio en tu cuenta
 particular. Al principio del curso, crea un fichero de objetivos. Cada
 vez que lo actualices,
-[haz un *pull request*](http://aprendegit.com/que-es-un-pull-request/)
+[haz un *pull request*](http://aprendegit.com/tag/pull-request/)
 para poder incorporarlo aquí. En [este fichero](JJ.md) tienes un
 ejemplo de cómo tienes que formatear los objetivos, que puedes
 copiar/pegar de la página correspondiente.
