@@ -24,6 +24,7 @@ recurso.
 ## Contenidos
 
 * Antes del final de la semana, haber entregado el [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). 
+* Asistir al [seminario de la asignatura sobre microservicios basados en eventos](https://github.com/JJ/IV-19-20/blob/master/sesiones/semana-01.md), útil para entender qué tipo de aplicaciones se despliegan en la nube.
 * Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura; si no es posible, asegurarse de que el sistema operativo del ordenador es capaz de manejar, al menos, varias máquinas virtuales Linux a la vez, así como contenedores Docker.
 * Manejar de forma básica la línea de órdenes de Linux.
 * Aprender a instalar software libre en Linux.
