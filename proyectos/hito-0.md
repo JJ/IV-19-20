@@ -18,7 +18,7 @@
 |GARCIA PRADOS, SERGIO | | |
 |GARCIA DE SEBASTIAN, IRIS | | |
 |GARZON SEGURA, IVAN | | |
-|GONZALEZ GARCIA, FRANCISCO JOSE |https://github.com/Neo-Stark/Proyecto-IV-19-20| 0.1 |
+|GONZALEZ GARCIA, FRANCISCO JOSE |[toPDF](https://github.com/Neo-Stark/Proyecto-IV-19-20) | 0.2 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
