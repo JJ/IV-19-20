@@ -9,10 +9,6 @@ Entrega de fichero de objetivos
 *Borrar lo que no corresponda*
 ** Y estas notas también **
 
-## Enlace a fichero de objetivos 
-
-<enlace a los objetivos correspondientes a este hito>
-
 ## Lista de comprobación para hitos (*borrar si no es un hito*)
 
 * [ ] He leído el guión del hito
@@ -22,14 +18,14 @@ Entrega de fichero de objetivos
 * [ ] Si estoy enviando otra versión porque no pasó los tests la
 anterior, he [seguido las instrucciones para reenvíos](http://jj.github.io/IV/documentos/proyecto/Reenvios).
 
-## Lista de comprobación para objetivos
+## Lista de comprobación para objetivos (sólo objetivos)
 
 * [ ] He llevado a cabo las actividades correspondientes al objetivo y he entendido para qué sirve.
 * [ ] He actualizado con la última versión del fichero de entrega y
   añadido mi contribución en una línea que no cree conflictos
   
   
-## Descripción de la entrega
+## Descripción de la entrega (sólo si es un reenvío)
 
 <Breve descripción de lo entregado>
 
