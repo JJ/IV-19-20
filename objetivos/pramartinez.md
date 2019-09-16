@@ -1,6 +1,6 @@
-#Objetivos de las sesiones de Práxedes Martínez
+# Objetivos de las sesiones de Práxedes Martínez
 
-##Semana del 9 de septiembre
+## Semana del 9 de septiembre
 
 - [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.  
 - [X] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.
