@@ -30,7 +30,7 @@
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | | |
 |MOLNER DOMENECH, ANTONIO | | |
-|MORENO JIMENEZ, VICTOR | | |
+|MORENO JIMENEZ, VICTOR | [API Restful LookForAJob](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | **0.2** |
