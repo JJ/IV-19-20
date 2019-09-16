@@ -43,7 +43,7 @@
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
-|ROMAN GUERRERO, NAZARET | https://github.com/nazaretrogue/Microservicio-multimedia.git | 1.0 | 
+|ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 1.0 | 
 |RUANO NARVAEZ, RAUL | | |
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL | | |
