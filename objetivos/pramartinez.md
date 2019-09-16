@@ -1,4 +1,5 @@
 #Objetivos de las sesiones de Práxedes Martínez
+
 ##Semana del 9 de septiembre
 
 - [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.  
