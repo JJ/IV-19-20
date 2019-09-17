@@ -54,7 +54,7 @@ SKIP: {
 
   # Comprobación de envío de objetivos cuando hay nombre de usuario
   my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
-  my @ficheros_objetivos = glob "$prefix/objetivos/*.$extensions";
+  my @ficheros_objetivos = glob "$prefix/objetivos/*.*";
   my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
   isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
@@ -74,14 +74,14 @@ SKIP: {
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.$extensions \.gitignore LICENSE )) { # Tests 5-7
+  for my $f (qw( README\.(org|md|rst) \.gitignore LICENSE )) { # Tests 5-7
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
   doing("hito 1");
   # Get the extension used for the README
-  my ($readme_ext) = @repo_files =~ /README(\.[^.]+)$/;
-  my $README =  read_text( "$repo_dir/README.$readme_ext");
+  my ($readme_file) = grep( /README/, @repo_files );
+  my $README =  read_text( "$repo_dir/$readme_file");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
   my $with_pip = grep(/req\w+\.txt/, @repo_files);
