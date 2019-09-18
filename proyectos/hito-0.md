@@ -7,7 +7,7 @@
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
 |CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0.1 |
-|COTAN LOPEZ, FRANCISCO JOSE | | |
+|COTAN LOPEZ, FRANCISCO JOSE | https://github.com/iscoct/proyectoInfraestructuraVirtual | 0.0.1 |
 |DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
