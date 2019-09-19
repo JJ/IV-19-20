@@ -6,14 +6,14 @@
 |ARENAS MARTINEZ, MARTA | | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
-|CEREZO SANCHEZ, PABLO | | |
+|CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0.1 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
-|DE LA TORRE VILLAVERDE, CRISTINA | | |
+|DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v0.0.1 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | | |
-|GAMEZ LOPEZ, ADRIAN GABRIEL | | |
+|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | 0.1 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | [LibraryManagement](https://github.com/sergiogp98/LibraryManagement) | 0.1 |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.1.0 |
@@ -23,32 +23,34 @@
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | 0.1 |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
-|LOPEZ RUIZ, EVA | | |
+|LOPEZ RUIZ, EVA | [infraestructuraVirtual](https://github.com/Lopuiz/infraestructuraVirtual) | 0.1 |
 |LUACES LUACES, CARLOS | | |
-|LUQUE CALLEJAS, DAVID | | |
+|LUQUE CALLEJAS, DAVID |[ProyectoIV](https://github.com/davidluque1/ProyectoIV)| **1.1** |
 |MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.1 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1 |
 |MORENO JIMENEZ, VICTOR | [Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
-|MUÑOZ HERRERA, JOSE ANTONIO | | |
+|MORENO LOPEZ, JUAN ESTEBAN |[Proyecto IV](https://github.com/juaneml/IV_1920_Proyecto) |0.1 |
+|MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.1 |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2 |
-|PARRILLA NAVARRO, PEDRO MIGUEL | | |
+|PARRILLA NAVARRO, PEDRO MIGUEL |[GHome-Bot](https://github.com/SupeerP/GHome-Bot) |0.1 |
 |PERALTA CAMARA, VICTOR | [IV-Proyecto](https://github.com/victorperalta93/IV-Proyecto) | 0.1 |
 |PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 0.1 |
+|PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.0 |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
 |POZO ESCALONA, DANIEL | [Proyecto por determinar](https://github.com/danipozo/proyecto-IV) | v0.0.2 |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV-WebService) | 1.0 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
-|RODRIGUEZ PEREZ, JESUS | | |
-|RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | 0.1 |
+|RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.1|
+|RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | **1.2** |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.1 |
-|SAEZ DE LA COBA, JAVIER | | |
+|SAEZ DE LA COBA, JAVIER | [cmiautorizo](https://github.com/jscoba/cmiautorizo) | 0.3 |
 |SANCHEZ FERNANDEZ, RAUL | [ProtectoIV](https://github.com/raulsf6/IV-19-20.git) | **1.0** |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | [NutriK](https://github.com/LeandroVP/NutriK)| 0.2 |
-|ZONTAR , LUKA | | |
+|ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.1 |
