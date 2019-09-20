@@ -22,7 +22,7 @@
 |GUTIERREZ SEGOVIA, JORGE | [MiAgendaPersonal](https://github.com/Saytes/Proyecto-IV) | 0.1 |
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | 0.1 |
 |KEMP MUÑOZ, MARCEL | [Proyecto_IV - Dealer](https://github.com/MarcelKemp/Proyecto_IV) | 0.1 |
-|LEYVA RUIZ, RAFAEL | | |
+|LEYVA RUIZ, RAFAEL | [AI remote strem](https://github.com/rafaelleru/iv) | 0.0 |
 |LOPEZ RUIZ, EVA | [infraestructuraVirtual](https://github.com/Lopuiz/infraestructuraVirtual) | 0.1 |
 |LUACES LUACES, CARLOS | | |
 |LUQUE CALLEJAS, DAVID |[ProyectoIV](https://github.com/davidluque1/ProyectoIV)| 1.1 |
