@@ -2,7 +2,7 @@
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 0.1 |
 |ALONSO RAMOS, JOSE JAVIER | [IV-Project:Lights](https://github.com/JJavier98/IV-Project) | 0.0.1 |
-|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.1-dev, **Reenvío** |
+|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.0-dev |
 |ARENAS MARTINEZ, MARTA | [ProyectoIV](https://github.com/MartaArM/proyectoIV1920) | 1.0 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
@@ -27,7 +27,7 @@
 |LUQUE CALLEJAS, DAVID |[ProyectoIV](https://github.com/davidluque1/ProyectoIV)| 1.1 |
 |MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
 |MANRESA NEBOT, PABLO | | |
-|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v0.1|
+|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v0.1| 
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.1 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1 |
 |MORENO JIMENEZ, VICTOR | [Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
