@@ -53,3 +53,4 @@
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | | |
+https://github.com/lulivi/bot-calendario-telegram/issues
