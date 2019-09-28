@@ -18,5 +18,5 @@
 * Session 02
 - [X] Read and understand the [[http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico#introduccin][resource]] given for this session.
 - [X] Create a new repository to host the proposed exercises.
-- [ ] Do and document the exercises 1-6.
+- [X] Do and document the exercises 1-6.
 - [ ] Elaborate the description of the [[https://github.com/iris-garcia/webhooks-handler][project]] as suggested by [[https://github.com/JJ][JJ]].
