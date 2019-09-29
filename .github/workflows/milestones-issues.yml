@@ -3,7 +3,7 @@ on:
   pull_request:
     paths:
       - 'proyectos/hito-[1234567].md'
-      - '!objetivos/*.md'
+      - '!objetivos/*.(md|org)'
 
 jobs:
   obtain-repo:
@@ -19,4 +19,3 @@ jobs:
         with:
           github-token: ${{github.token}}
           minMilestones: 3
-
