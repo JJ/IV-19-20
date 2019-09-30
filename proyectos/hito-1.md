@@ -27,7 +27,7 @@
 |LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | 1.3 |
 |MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.1 |
 |MANRESA NEBOT, PABLO | | |
-|MARTINEZ MARTIN, MIGUEL JOSE | | |
+|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v1.1|
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.2 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.1 |
 |MORENO JIMENEZ, VICTOR |[Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.2 |
