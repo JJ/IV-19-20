@@ -29,7 +29,7 @@
 ## Semana del 23 de Septiembre
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 
 - [x] Solucionados errores del hito 0.
