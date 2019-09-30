@@ -6,7 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Comprobaciones IV
-      uses: JJ/github-pr-cont<ains-action@releases/v1
+      uses: JJ/github-pr-contains-action@releases/v2
       with:
         github-token: ${{github.token}}
+        bodyContains: "] Prometo"
+        bodyDoesNotContain: "Borrar"
         filesChanged: 1

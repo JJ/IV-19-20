@@ -16,3 +16,20 @@
 - [x] Empezar a usar git y GitHub. Por ejemplo,
   [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online.
+
+## Segunda semana
+
+- [x] Antes del final de la semana, haber entregado el hito 0.
+- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura; si no es posible, asegurarse de que el sistema operativo del ordenador es capaz de manejar, al menos, varias máquinas virtuales Linux a la vez, así como contenedores Docker.
+- [x] Manejar de forma básica la línea de órdenes de Linux.
+- [x] Aprender a instalar software libre en Linux.
+- [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
+- [x] Poner al final de cada semana los objetivos alcanzados, y siempre antes de la entrega del hito del proyecto.
+
+## Tercera semana
+
+- [x] Corregido hito 0.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+

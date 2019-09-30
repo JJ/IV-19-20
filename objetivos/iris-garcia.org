@@ -1,5 +1,7 @@
 * Iris Garcia's Goals per session
-- [[#session-1][Session 01]]
+- [[#session-01][Session 01]]
+- [[#session-02][Session 02]]
+- [[#session-03][Session 03]]
 
 * Session 01
 - [X] Gather all the given resources for the subject and bookmark them.
@@ -13,3 +15,19 @@
 - [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/0.Repositorio][milestone 0]].
 - [X] Understand the importance of the Open Source.
 - [X] Join the new [[https://t.me/joinchat/AOR8MhHP5uoG4d1WZUTbag][Telegram group]].
+
+* Session 02
+- [X] Read and understand the [[http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico#introduccin][resource]] given for this session.
+- [X] Create a new repository to host the proposed exercises.
+- [X] Do and document the exercises 1-6.
+- [X] Elaborate the description of the [[https://github.com/iris-garcia/webhooks-handler][project]] as suggested by [[https://github.com/JJ][JJ]].
+
+* Session 03
+- [X] Understand the requirements for the [[http://jj.github.io/IV/documentos/proyecto/1.Infraestructura][milestone 1]].
+- [X] Understand the JSON format and its utility.
+- [ ] Install the required tools/libraries to properly test a project.
+- [ ] Use different virtual environments of some programming languages.
+- [X] Understand what are the goals and how to elaborate them properly.
+- [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/1.Infraestructura][milestone 1]] before September 30 13:30.
+- [X] Read the [[http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas][resource]] given for this session.
+- [ ] Do and document the exercises 1-10.
