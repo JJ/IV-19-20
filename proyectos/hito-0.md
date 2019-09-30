@@ -4,7 +4,7 @@
 |ALONSO RAMOS, JOSE JAVIER | [IV-Project:Lights](https://github.com/JJavier98/IV-Project) | 0.0.1 |
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.1-dev, **Reenvío** |
 |ARENAS MARTINEZ, MARTA | [ProyectoIV](https://github.com/MartaArM/proyectoIV1920) | 1.0 |
-|BERRAQUERO ROMERO, JUAN DIEGO | [Mark_IV](https://github.com/JuanDiegoJr7/Mark_IV.git) | 0.1 |
+|BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
 |CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0.1 |
 |COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual) | 0.0.1, **Reenvío** |
