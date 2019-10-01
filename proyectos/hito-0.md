@@ -43,7 +43,7 @@
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | v1.0.0, **Reenvío** |
 |REBOLLO PEREZ, VICTOR | [ProyectoIV](https://github.com/Rebits/ProyectoIV) | v0.0.1 |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV-WebService) | 1.0 |
-|RODRIGUEZ LOPEZ, ALEJANDRO | | |
+|RODRIGUEZ LOPEZ, ALEJANDRO |[html2pdf](https://github.com/alexrodriguezlop/IV-Proyect) | 1.0 |
 |RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.1 |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | **1.2** |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
