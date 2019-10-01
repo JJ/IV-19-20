@@ -1,4 +1,6 @@
-## Semana 1
+# Objetivos de las sesiones
+
+## Semana 1 (9 de septiembre)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
