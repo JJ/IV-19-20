@@ -48,7 +48,7 @@
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | **2.3** __Reenvio__ |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.2 |
-|SAEZ DE LA COBA, JAVIER | | |
+|SAEZ DE LA COBA, JAVIER | [cmiautorizo](https://github.com/jscoba/cmiautorizo) | 0.4 |
 |SANCHEZ FERNANDEZ, RAUL | [ProyectoIV](https://github.com/raulsf6/Proyecto-IV) | 1.3 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
