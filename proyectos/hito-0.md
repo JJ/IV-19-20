@@ -10,7 +10,7 @@
 |COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual) | 0.0.1, **Reenvío** |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v0.1.2 |
 |DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v0.0.1 |
-|DE RADA ALONSO, ALVARO ALEJANDRO |[Proyecto-IV](https://github.com/Waykky/Proyecto-IV) | v0.1 |
+|DE RADA ALONSO, ALVARO ALEJANDRO |[Proyecto-IV](https://github.com/Waykky/Proyecto-IV) | v0.1, **Reenvío** |
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | [Proyecto-IV](https://github.com/OMGitsXupi/Proyecto-Infraestructura-Virtual) | 0.0.1 |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v0.1 <em>Reenvio 1</em> |
