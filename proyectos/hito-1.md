@@ -13,7 +13,7 @@
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | 0.2.4 |
-|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v1.0 |
+|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v1.1 <em>Reenvio 1</em> |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.2.1 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | [LibraryManagement](https://github.com/sergiogp98/LibraryManagement) | 0.4 |
