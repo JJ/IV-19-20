@@ -6,7 +6,7 @@
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.7 |
-|CEREZO SANCHEZ, PABLO | | |
+|CEREZO SANCHEZ, PABLO | [Music-price](https://github.com/pcerezo/Music-price) | 0.1 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.0.5 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
