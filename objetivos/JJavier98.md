@@ -63,11 +63,11 @@
 
 - [x] Asignatura y trabajos de fin de grado.
 - [x] Entender el segundo hito del proyecto
-- [ ] Comprender los hooks de git.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Comprender los hooks de git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 
-## Semana del 5 de Octubre
+## Semana del 7 de Octubre)
 
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
