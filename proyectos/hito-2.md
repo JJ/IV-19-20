@@ -6,7 +6,7 @@
 |ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.3 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.7 |
-|CEREZO SANCHEZ, PABLO | | |
+|CEREZO SANCHEZ, PABLO | [Music-price](https://github.com/pcerezo/Music-price) | 0.3 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.1.0 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
