@@ -59,7 +59,7 @@
 
 - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
-## Otros objetivos
+## Otros objetivos 
 
 - [x] Asignatura y trabajos de fin de grado.
 - [x] Entender el segundo hito del proyecto
