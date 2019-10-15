@@ -61,7 +61,26 @@
 
 ## Otros objetivos
 
-- [ ] Asignatura y trabajos de fin de grado.
+- [x] Asignatura y trabajos de fin de grado.
 - [x] Entender el segundo hito del proyecto
-- [ ] Comprender los hooks de git.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Comprender los hooks de git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+
+# Semana del 7 de Octubre)
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+#### Otros objetivos
+- [x] Entender los errores comunes en el hito 1.
+- [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
+- [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+- [x] Especialmente por qué los "usuarios" no intervienen en él.
+- [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+- [x] Entender qué son los hitos, los issues y los commits.
+- [x] Entender qué es un API, un API REST.
+- [x] Entender que hay otros APIs diferentes.
+- [x] Entender qué va en un repo, y qué no va.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
