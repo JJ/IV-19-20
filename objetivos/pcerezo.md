@@ -47,19 +47,19 @@
 
 # Cuarta semana, comienza el 30 de septiembre
 - [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
-- [] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 
-- [] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 ## Otros objetivos
 - [] Asignatura y trabajos de fin de grado.
-- [] Entender el segundo hito del proyecto
-- [] Comprender los hooks de git.
+- [x] Entender el segundo hito del proyecto
+- [x] Comprender los hooks de git.
 - [] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 # Quinta sesión, comienza el 7 de octubre
 - [] Terminar la configuración de los sistemas de integración continua
-- [] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
-- [] Entender los errores comunes en el hito 1
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+- [x] Entender los errores comunes en el hito 1
 - [] Entender cómo extender clases con un API REST o uno basado en tareas.
 - [] Comprender los mecanismos de despliegue automático a través de git.
