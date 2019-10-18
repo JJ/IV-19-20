@@ -1,0 +1,3 @@
+# requirementsFlask.txt
+
+Flask
