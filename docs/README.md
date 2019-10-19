@@ -27,12 +27,32 @@
 
 ## Travis CI
 
-La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. En "script" le indicamos que debe ejecutar make para que se realicen los tests
+[foto de archivo configuración]
 
-.
+La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. En _script_ le indicamos que debe ejecutar make test para que se realicen los tests. No es necesario especificar el comando _pip install -r requirements.txt_ ya que travis lo hace automáticamente.
+
+
 ## CircleCI
+
+[foto de archivo de configuración]
+
+_version: 2_ nos indica que la versión de circleCI a usar es la 2
+
+_jobs:_ indica los trabajos, en este caso el único es _build:_
+
+_docker:_ nos permite indicar una imagen de circleCI, en este caso indicamos una con python 3.7
+
+_working_directory:  directorio de trabajo. En mi caso,  _~/ProyectoIV_
+
+_steps:_ indica una serie de pasos a seguir para dicho trabajo. En nuestro caso, un _checkout_ seguido de dos _run_: el primero consta de una barra (|) que indica que hay varias líneas de comando: _python3 -m venv venv_ crea un entorno virtual con python 3; _. venv/bin/activate_ activa dicho entorno y _pip3 install -r requirements.txt_ instala las herramientas indicadas en _requirements.txt_. El segundo comando se encarga de la ejecución de los tests con la orden _make test_
 
 ## Herramienta de construcción
 
+[foto de makefile]
+
+Actualmente el makefile sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la orden clean-pyc, con lo cual antes de ejecutar los tests con py.test se hace una limpieza y se eliminan dichos archivos residuales.
+
+
 ## Especificaciones matemáticas
 
+##todo
