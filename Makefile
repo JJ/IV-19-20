@@ -3,4 +3,4 @@ clean-pyc:
 	find . -name '*.pyo' -exec rm --force {} +
 
 test: clean-pyc
-	py.test --verbose --color=yes $(TEST_PATH)
+	py.test 
