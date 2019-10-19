@@ -1,12 +1,13 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Build Status](https://travis-ci.org/davidluque1/ProyectoIV.svg?branch=master)](https://travis-ci.org/davidluque1/ProyectoIV) [![CircleCI](https://circleci.com/gh/davidluque1/ProyectoIV.svg?style=svg)](https://circleci.com/gh/davidluque1/ProyectoIV.svg?style=svg)
 
-- [Herramientas](#Herramientas usadas)
-- [Travis CI](#Travis CI)
+- [Entorno de desarrollo](#Entorno-de-desarrollo)
+- [Travis CI](#Travis-CI)
 - [CircleCI](#CircleCI)
-- [Herramientas usadas](#Herramientas usadas)
-- [Especificaciones matemáticas](#Especificaciones matemáticas)
+- [Herramienta de construcción](#Herramienta-de-construcción)
+- [Especificaciones matemáticas](#Especificaciones-matemáticas)
 
 
-## Herramientas usadas
+## Entorno de desarrollo
 
 
 · **Lenguaje**: [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) será el lenguaje a usar gracias a su versatilidad, sintaxis cómoda y librería estándar muy amplia.
@@ -27,6 +28,8 @@
 ## Travis CI
 
 ## CircleCI
+
+## Herramienta de construcción
 
 ## Especificaciones matemáticas
 

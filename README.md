@@ -12,16 +12,15 @@ El microservicio a desarrollar formaría parte de un proyecto mayor dedicado a l
 
 ## Información adicional
 
-· [Herramientas usadas](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
+· [Entorno de desarrollo](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
 
-· [Travis](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
+· [Travis CI](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
 
 · [CircleCI](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
 
+· [Herramienta de construcción](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
+
 · [Especificaciones matemáticas](https://github.com/davidluque1/ProyectoIV/tree/master/docs)
-
-
-
 
 
 
