@@ -27,6 +27,9 @@
 
 ## Travis CI
 
+La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. En "script" le indicamos que debe ejecutar make para que se realicen los tests
+
+.
 ## CircleCI
 
 ## Herramienta de construcción
