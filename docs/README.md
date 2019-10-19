@@ -27,7 +27,7 @@
 
 ## Travis CI
 
-[foto de archivo configuración]
+![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/circleci.png)
 
 La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. En _script_ le indicamos que debe ejecutar make test para que se realicen los tests. No es necesario especificar el comando _pip install -r requirements.txt_ ya que travis lo hace automáticamente.
 
