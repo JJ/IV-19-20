@@ -42,17 +42,16 @@ _jobs:_ indica los trabajos, en este caso el único es _build:_
 
 _docker:_ nos permite indicar una imagen de circleCI, en este caso indicamos una con python 3.7
 
-_working_directory:  directorio de trabajo. En mi caso,  _~/ProyectoIV_
+_working_directory:_  directorio de trabajo. En mi caso,  _~/ProyectoIV_
 
-_steps:_ indica una serie de pasos a seguir para dicho trabajo. En nuestro caso, un _checkout_ seguido de dos _run_: el primero consta de una barra (|) que indica que hay varias líneas de comando: _python3 -m venv venv_ crea un entorno virtual con python 3; _. venv/bin/activate_ activa dicho entorno y _pip3 install -r requirements.txt_ instala las herramientas indicadas en _requirements.txt_. El segundo comando se encarga de la ejecución de los tests con la orden _make test_
+_steps:_ indica una serie de pasos a seguir para dicho trabajo. En nuestro caso, un _checkout_ seguido de dos _run_: el primero consta de una barra (|) que indica que hay varias líneas de comando: _python3 -m venv venv_ crea un entorno virtual con python 3; _. venv/bin/activate_ activa dicho entorno y _pip3 install -r requirements.txt_ instala las herramientas indicadas en _requirements.txt_. El segundo _run_ se encarga de la ejecución de los tests con la orden _make test_
 
 ## Herramienta de construcción
 
 [foto de makefile]
 
-Actualmente el makefile sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la orden clean-pyc, con lo cual antes de ejecutar los tests con py.test se hace una limpieza y se eliminan dichos archivos residuales.
+Actualmente el makefile sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la directiva _clean-pyc_, con lo cual antes de ejecutar los tests con py.test se hace una limpieza y se eliminan dichos archivos residuales. 
 
 
 ## Especificaciones matemáticas
 
-##todo
