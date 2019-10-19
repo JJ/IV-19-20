@@ -27,14 +27,19 @@
 
 ## Travis CI
 
-![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/circleci.png)
+![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/travisyml.png)
 
 La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. En _script_ le indicamos que debe ejecutar make test para que se realicen los tests. No es necesario especificar el comando _pip install -r requirements.txt_ ya que travis lo hace automáticamente.
+
+El fichero requirements.txt indica instalar Flask y pytest en sus versiones correspondientes: 
+
+![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/requirements.png)
 
 
 ## CircleCI
 
-[foto de archivo de configuración]
+![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/circleci.png)
+
 
 _version: 2_ nos indica que la versión de circleCI a usar es la 2
 
@@ -48,7 +53,8 @@ _steps:_ indica una serie de pasos a seguir para dicho trabajo. En nuestro caso,
 
 ## Herramienta de construcción
 
-[foto de makefile]
+![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/makefile.png)
+
 
 Actualmente el makefile sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la directiva _clean-pyc_, con lo cual antes de ejecutar los tests con py.test se hace una limpieza y se eliminan dichos archivos residuales. 
 
