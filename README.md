@@ -13,6 +13,7 @@ El microservicio a desarrollar formaría parte de un proyecto mayor dedicado a l
 ## Prerequisitos
 
 · Python 3.7 
+
 · pip (instalado por defecto en Python 3.4 o superior)
 
 
