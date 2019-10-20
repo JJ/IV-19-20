@@ -48,5 +48,5 @@ recurso.
 [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 ## Semana del 7 de octubre
-[ ] Terminar la configuración de los sistemas de integración continua
+[x] Terminar la configuración de los sistemas de integración continua
 [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
