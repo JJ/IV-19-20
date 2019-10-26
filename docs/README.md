@@ -91,7 +91,14 @@ _steps:_ indica una serie de pasos a seguir para dicho trabajo. En nuestro caso,
 
 ## Herramienta de construcción
 
-![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/makefile.png)
+~~~~
+clean-pyc:
+	find . -name '*.pyc' -exec rm --force {} +
+	find . -name '*.pyo' -exec rm --force {} +
+
+test: clean-pyc
+	py.test
+~~~~
 
 
 Actualmente el _makefile_ sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la directiva _clean-pyc_, con lo cual antes de ejecutar los tests con _py.test_ se hace una limpieza y se eliminan dichos archivos residuales. Al ejecutar _py.test_, se buscan tests en el directorio actual y en sus subdirectorios, ejecutándose. 
