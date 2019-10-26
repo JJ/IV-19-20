@@ -38,13 +38,46 @@ La documentación de esta parte es sencilla: indicamos python como lenguaje, e i
 
 El fichero _requirements.txt_ indica instalar _Flask_ y _pytest_ en sus versiones correspondientes: 
 
-![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/requirements.png)
+~~~~
+Flask==1.0.2
+pytest==5.2.1
+~~~~
 
 
 ## CircleCI
 
-![](https://github.com/davidluque1/ProyectoIV/blob/master/docs/fotos/circleci.png)
+~~~~
+# Python CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-python/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      # imagen base de docker a usar, python 3.7
+      - image: circleci/python:3.7
 
+    working_directory: ~/ProyectoIV
+
+    steps:
+      - checkout
+
+      - run:
+          name: Install dependencies
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip3 install -r requirements.txt
+
+
+      # ejecutar tests
+      - run:
+          name: Run tests
+          command: |
+            . venv/bin/activate
+            make test
+~~~~
 
 _version: 2_ nos indica que la versión de circleCI a usar es la 2
 
