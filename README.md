@@ -23,15 +23,11 @@ Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `
 
 ## Información adicional
 
-· [Entorno de desarrollo](https://github.com/davidluque1/ProyectoIV/tree/master/docs#Entorno-de-desarrollo)
+· [Entorno de desarrollo](https://github.com/davidluque1/ProyectoIV/blob/master/docs/entorno.md)
 
-· [Travis CI](https://github.com/davidluque1/ProyectoIV/tree/master/docs#Travis-CI)
+· [Integración continua y herramientas de construcción](https://github.com/davidluque1/ProyectoIV/blob/master/docs/ci_herramientas_construccion.md)
 
-· [CircleCI](https://github.com/davidluque1/ProyectoIV/tree/master/docs#CircleCI)
-
-· [Herramienta de construcción](https://github.com/davidluque1/ProyectoIV/tree/master/docs#Herramienta-de-construcción)
-
-· [Especificaciones matemáticas](https://github.com/davidluque1/ProyectoIV/tree/master/docs#Especificaciones-matemáticas)
+· [Especificaciones matemáticas](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_matematicas.md)
 
 
 

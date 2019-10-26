@@ -22,7 +22,7 @@
 
 · **Framework para testeo**: [pytest](https://docs.pytest.org/en/latest/) me ha parecido tener bastante documentación además de ser muy usado.
 
-· **Integración continua**: [Travis CI](https://travis-ci.org/) 
+· **Integración continua**: [Travis CI](https://travis-ci.org/) y [Circle CI](https://circleci.com) 
 
 
 ## Travis CI
