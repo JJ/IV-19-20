@@ -13,7 +13,6 @@ jobs:
 
     steps:
       - checkout
-
       - run:
           name: Install dependencies
           command: |
@@ -29,6 +28,7 @@ jobs:
             . venv/bin/activate
             make test
        # lanzar servicio
+
        - run:
           name: Run service
           command: |
