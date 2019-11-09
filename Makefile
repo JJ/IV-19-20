@@ -14,7 +14,7 @@ test_jugador: # testear sólo la clase jugador
 test_api: # testear la API
 	pytest tests/test_Api.py
 
-tests: # testear todo 
+test: # testear todo 
 	pytest
 
 start: # inicio del servicio. Ver contenido de startsite.sh para ver la orden específica de gunicorn
