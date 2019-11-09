@@ -27,9 +27,9 @@ jobs:
           command: |
             . venv/bin/activate
             make test
-       # lanzar servicio
 
-       - run:
+       # lanzar servicio
+      - run:
           name: Run service
           command: |
             . venv/bin/activate
