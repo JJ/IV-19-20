@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # imagen base de docker a usar, python 3.7
-      - image: python3.7-nodejs13
+      - image: nikolaik/python-nodejs:latest
 
     working_directory: ~/ProyectoIV
 
