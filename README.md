@@ -26,7 +26,9 @@ Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `
 
 Ejecutar `make test` para lanzar todos los tests, `make start` para lanzar el servicio, `make stop` para pararlo, `make restart` para reiniciarlo, `make show` para mostrar información de nuestro proceso y `make delete` para eliminar el servicio de la lista de procesos.
 
+## Peticiones
 
+Ver la [especificación de la api](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
 
 
 ## Herramienta de construcción
