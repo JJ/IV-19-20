@@ -7,8 +7,6 @@ install:
 
 script:
 	- make start
-	- make stop
 	- make show
 	- make restart
-	- make delete
-
+	- make stop
