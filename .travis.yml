@@ -1,5 +1,14 @@
 language: python 
 python:   
   - "3.7"
-script: make test
+
+install:
+	- make install 
+
+script:
+	- make start
+	- make stop
+	- make show
+	- make restart
+	- make delete
 

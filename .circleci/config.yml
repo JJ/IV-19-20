@@ -28,4 +28,11 @@ jobs:
           command: |
             . venv/bin/activate
             make test
+       # lanzar servicio
+       - run:
+          name: Run service
+          command: |
+            . venv/bin/activate
+            make start
+		
 
