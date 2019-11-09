@@ -16,17 +16,12 @@ El microservicio a desarrollar formaría parte de un proyecto mayor dedicado a l
 
 · pip3 (instalado por defecto en Python 3.4 o superior)
 
+· Poder instalar pm2 mediante npm. Puede dar problemas si la versión de nodeJS está muy desactualizada
 
 ## Instalación
 
 Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `make install`. Ejecutar `make tests` para lanzar todos los tests, `make start` para lanzar el servicio, `make stop` para pararlo, `make restart` para reiniciarlo, `make show` para mostrar información de nuestro proceso y `make delete` para eliminar el servicio de la lista de procesos.
 
-
-## Uso
-
-Petición GET para [Expectancia](http://0.0.0.0:5000/Expectancia?elojug1=1500&elojug2=1800)
-
-Petición GET para [Nuevo Elo](http://0.0.0.0:5000/NuevoElo?elojug1=1500&elojug2=1800&k=40&resultado=1) 
 
 
 

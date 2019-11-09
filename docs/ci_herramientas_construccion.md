@@ -16,7 +16,7 @@ script:
 
 ~~~~
 
-La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. En _script_ le indicamos que debe ejecutar _make test_ (ver más abajo) para que se realicen los tests. No es necesario especificar el comando _pip install -r requirements.txt_ ya que travis lo hace automáticamente.
+La documentación de esta parte es sencilla: indicamos python como lenguaje, e indicamos después que la versión a usar es la 3.7. Primeramente en install le indicamos que haga make install para instalar las dependencias. Luego, en _script_ le indicamos que debe ejecutar _make test_ (ver más abajo) para que se realicen los tests y las demás ordenes para probar a levantar el servicio, pararlo, etc.
 
 El fichero _requirements.txt_ indica instalar _Flask_, _pytest_ y _gunicorn_ en sus versiones correspondientes: 
 
@@ -75,7 +75,7 @@ _version: 2_ nos indica que la versión de circleCI a usar es la 2
 
 _jobs:_ indica los trabajos, en este caso el único es _build:_
 
-_docker:_ nos permite indicar una imagen, en este caso indicamos una con python 3.7
+_docker:_ nos permite indicar una imagen, en este caso indicamos una con python 3.7 y con nodeJS
 
 _working_directory:_  directorio de trabajo. En mi caso,  _~/ProyectoIV_
 
@@ -122,7 +122,6 @@ delete: # borrar el servicio
 ~~~~
 
 
-Actualmente el _makefile_ sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la directiva _clean-pyc_, con lo cual antes de ejecutar los tests con _py.test_ se hace una limpieza y se eliminan dichos archivos residuales. Al ejecutar _py.test_, se buscan tests en el directorio actual y en sus subdirectorios, ejecutándose. También lo he usado para instalar las dependencias necesarias y para crear diferentes secciones de tests (clases/api, o todo) y para arrancar o parar el servicio y otras opciones de pm2. La directiva --name simplemente le asigna un nombre al trabajo con el que es más fácil trabajar. La directiva .ONESHELL hace que todo se ejecute en una misma shell. 
+Actualmente el _makefile_ sirve para eliminar ficheros residuales de python del tipo _.pyc_ o _.pyo_. La directiva _test_ depende de la directiva _clean-pyc_, con lo cual antes de ejecutar los tests con _pytest_ se hace una limpieza y se eliminan dichos archivos residuales. Al ejecutar _pytest_, se buscan tests en el directorio actual y en sus subdirectorios, ejecutándose. También lo he usado para instalar las dependencias necesarias y para crear diferentes secciones de tests (clases/api, o todo) y para arrancar o parar el servicio y otras opciones de pm2. La directiva --name simplemente le asigna un nombre al trabajo con el que es más fácil trabajar. La directiva .ONESHELL hace que todo se ejecute en una misma shell. 
 
-En resumen, tanto _travis_ como _circle_ usan _requirements.txt_, del cual obtienen las dependencias, las cuales instalan en entornos virtuales, y luego ejecutan _make test_ para ejecutar los tests.
 
