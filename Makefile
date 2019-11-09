@@ -4,9 +4,9 @@ clean-pyc: # limpiado de ficheros basura de python
 
 .ONESHELL:
 
-install: # -g para global en npm. pm2 es nuestro gestor de procesos. 
+install: # -g para global en npm. pm2 es nuestro gestor de procesos. 	
 	npm install -g pm2
-	pip install -r requirements.txt
+	pip3 install -r requirements.txt
 
 test_jugador: # testear sólo la clase jugador 
 	pytest tests/Jugador.py
