@@ -19,7 +19,10 @@ El microservicio a desarrollar formaría parte de un proyecto mayor dedicado a l
 
 ## Instalación
 
-Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `pip install -r requirements.txt`. Ejecutar `make test` para lanzar los tests.
+Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `make install`. Ejecutar `make tests` para lanzar todos los tests, `make start` para lanzar el servicio, `make stop` para pararlo, `make restart` para reiniciarlo, `make show` para mostrar información de nuestro proceso y `make delete` para eliminar el servicio de la lista de procesos.
+
+## Herramienta de construcción
+> buildtool: Makefile
 
 ## Información adicional
 
