@@ -24,9 +24,9 @@ Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `
 
 ## Uso
 
-Petición GET para Expectancia [0.0.0.0:5000/Expectancia?elojug1=1500&elojug2=1800](http://0.0.0.0:5000/Expectancia?elojug1=1500&elojug2=1800)
+Petición GET para [Expectancia](http://0.0.0.0:5000/Expectancia?elojug1=1500&elojug2=1800)
 
-Petición GET para nuevo Elo [0.0.0.0:5000/NuevoElo?elojug1=1500&elojug2=1800&k=40&resultado=1](http://0.0.0.0:5000/NuevoElo?elojug1=1500&elojug2=1800&k=40&resultado=1) 
+Petición GET para [Nuevo Elo](http://0.0.0.0:5000/NuevoElo?elojug1=1500&elojug2=1800&k=40&resultado=1) 
 
 
 
