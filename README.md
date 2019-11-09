@@ -41,6 +41,8 @@ Petición GET para [Nuevo Elo](http://0.0.0.0:5000/NuevoElo?elojug1=1500&elojug2
 
 · [Especificaciones matemáticas](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_matematicas.md)
 
+· [Especificación API](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
+
 
 
 

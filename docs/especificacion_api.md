@@ -6,8 +6,8 @@ URI
 
 | URI | Método | Parámetros | Respuesta | Datos adicionales |
 |:-:|:-:|:-:|:-:|:-:|
-|/ | Método GET | | {'status: OK'} | | 
-|/status | Método GET | | {'status: OK'} | |
+|/ | Método GET | |json: {'status: OK'} | | 
+|/status | Método GET | | json: {'status: OK'} | |
 |/Expectancia | Método GET | elojug1, elojug2 |json: {'expectancia'="..."} | La expectancia es la del jugador primero (jug1) |
 |/NuevoElo | Método GET | elojug1, elojug2, k, resultado |json: {'nuevoElo'="..."} | k es un factor que va de 10 a 40; resultado es 0, 0.5 o 1 (perder, empatar, ganar) |
 
@@ -25,7 +25,7 @@ Las rutas se sirven fácilmente gracias a Flask definiendo métodos asociados a 
 
 ## Sobre la importación de las clases en los ficheros test 
 
-Decidí separar los test del código fuente. Para importar las clases almacenadas en la carpeta "Flask" desde la carpeta "Test" (ambas al mismo nivel sobre la carpeta padre ProyectoIV) me hicieron falta estas líneas de código. [test_Jugador.py](https://github.com/davidluque1/ProyectoIV/blob/master/tests/test_Jugador.py):
+Decidí separar los test del código fuente. Para importar las clases almacenadas en la carpeta "Flask" desde la carpeta "Test" (ambas al mismo nivel sobre la carpeta padre ProyectoIV) me hicieron falta estas líneas de código:
 
 ```python
 import os,sys,inspect
@@ -36,4 +36,5 @@ dirFlask = parentdir+"/flask"
 sys.path.insert(0,dirFlask)
 ```
 
-las cuales indican a Python que al hacer imports busque también en la carpeta flask.
+las cuales indican a Python que al hacer imports busque también en la carpeta flask. 
+Ver [test_Jugador.py](https://github.com/davidluque1/ProyectoIV/blob/master/tests/test_Jugador.py)
