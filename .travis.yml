@@ -3,11 +3,11 @@ python:
   - "3.7"
 
 install:
-	- make install 
+  - make install 
 
 script:
-	- make test	
-	- make start
-	- make show
-	- make restart
-	- make stop
+  - make test	
+  - make start
+  - make show
+  - make restart
+  - make stop
