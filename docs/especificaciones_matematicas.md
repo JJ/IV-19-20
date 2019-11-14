@@ -10,7 +10,7 @@ Su fórmula matemática es:
 
 ![Expectancia](https://wikimedia.org/api/rest_v1/media/math/render/svg/51346e1c65f857c0025647173ae48ddac904adcb)
 
-Donde R_{A} es la puntuación elo del jugador A y R_{B}.$$ la del jugador B.
+Donde R_{A} es la puntuación elo del jugador A y R_{B} la del jugador B.
 
 
 ## Cálculo de nueva puntuación elo
