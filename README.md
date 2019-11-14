@@ -19,6 +19,8 @@ La API implementada permitirá:
 
 · Obtener el percentil del Elo del jugador A (no implementado todavía)
 
+La implementación de estas historias de usuario se encuentra [aquí](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
+
 
 ## Requisitos
 
