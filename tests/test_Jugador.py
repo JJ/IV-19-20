@@ -25,11 +25,22 @@ def test_nuevoElo():
 		Jugador2 = Jugador(1800) #todo
 		var1 = Jugador1.getNuevoElo(Jugador2.elo, 1)
 		assert var1 > 1533.96081771 and var1 < 1533.96081772, "Fallo en calculo de nuevo ELO"
-		return 0
 
-def test_ganancia():
-		assert(True)#todo
-		return 0
+def test_percentil():
+    Jugador1= Jugador(2000)
+    Jugador2 = Jugador(2800)
+    Jugador3 = Jugador(2700)
+
+    
+    var1 = Jugador1.getPercentil()
+    var2 = Jugador2.getPercentil()
+    var3 = Jugador3.getPercentil()
+
+    
+    assert var1 == 0.9462 and var2 == 1 and var3 == 0.9998, "Fallo en calculo de percentil"
+
+    return 0
+
 
 
 		

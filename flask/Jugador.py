@@ -19,7 +19,7 @@ class Jugador:
 	def testMetodo(self):
 		return 8/5
 	
-	def getPercentil():
+	def getPercentil(self):
 		if (self.elo > 2700):
 			return 1
 		elif (self.elo > 2600):
