@@ -39,11 +39,9 @@ def func1():
 def nuevo_elo():
 	parametro1 = request.args.get('elojug1')
 	parametro2 = request.args.get('elojug2')
-	parametro3 = request.args.get('k')
 	parametro4 = request.args.get('resultado')
 
 	Jugador1 = Jugador(int(parametro1))
-	Jugador1.k = int(parametro3)
 	Jugador2 = Jugador(int(parametro2))
 	
 	valor = str(Jugador1.getNuevoElo(int(parametro2), int(parametro4) ))
@@ -52,4 +50,60 @@ def nuevo_elo():
 	data['nuevoElo'] = valor
 
 	return Response(json.dumps(data), mimetype='application/json')
+
+
+
+@app.route('/PartidasSuperarJugador')
+def partidas_superar_jugador():
+	parametro1 = request.args.get('elojug1')
+	parametro2 = request.args.get('elojug2')
+
+	Jugador1 = Jugador(int(parametro1))
+	
+	valor = str(Jugador1.getPartidasSuperarJugador(int(parametro2)) )
+	
+	data = {}
+	
+	data['partidasSuperarJugador'] = valor
+
+	return Response(json.dumps(data), mimetype='application/json')
+
+
+@app.route('/PartidasSuperarElo')
+def partidas_superar_elo():
+	parametro1 = request.args.get('elojug1')
+	parametro2 = request.args.get('elojug2')
+
+	Jugador1 = Jugador(int(parametro1))
+	
+	valor = str(Jugador1.getPartidasSuperarElo(int(parametro2)))
+	
+	data = {}
+	
+	data['partidasSuperarElo'] = valor
+
+	return Response(json.dumps(data), mimetype='application/json')
+
+
+@app.route('/PartidasSuperarEloEst')
+def partidas_superar_elo_est():
+	parametro1 = request.args.get('elojug1')
+	parametro2 = request.args.get('elojug2')
+	parametro3 = request.args.get('elojug3')
+	
+	Jugador1 = Jugador(int(parametro1))
+	
+
+	valor = str(Jugador1.getPartidasSuperarEloEst(int(parametro2), int(parametro3)))
+	
+	data = {}
+	
+	data['partidasSuperarEloEst'] = valor
+
+	return Response(json.dumps(data), mimetype='application/json')
+
+
+
+	
+
 

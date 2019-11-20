@@ -6,10 +6,13 @@ URI
 
 | URI | Método | Parámetros | Respuesta | Datos adicionales |
 |:-:|:-:|:-:|:-:|:-:|
-|/ | Método GET | |json: {'status: OK'} | | 
-|/status | Método GET | | json: {'status: OK'} | |
-|/Expectancia | Método GET | elojug1, elojug2 |json: {'expectancia'="..."} | La expectancia es la del jugador primero (jug1) |
-|/NuevoElo | Método GET | elojug1, elojug2, k, resultado |json: {'nuevoElo'="..."} | k es un factor que va de 10 a 40; resultado es 0, 0.5 o 1 (perder, empatar, ganar) |
+|/ |  GET | |json: {'status: OK'} | | 
+|/status |  GET | | json: {'status: OK'} | |
+|/Expectancia | GET | elojug1, elojug2 |json: {'expectancia'="..."} | La expectancia es la del jugador primero (jug1) |
+|/NuevoElo | GET | elojug1, elojug2, k, resultado |json: {'nuevoElo'="..."} | k es un factor que va de 10 a 40; resultado es 0, 0.5 o 1 (perder, empatar, ganar) |
+|/PartidasSuperarJugador| GET | elojug1, elojug2| json: {'partidasSuperarJugador'="..."} | |
+|/PartidasSuperarElo | GET | elojug1, elojug2 | | json: {'partidasSuperarElo'="..."} |
+|/PartidasSuperarEloEst | GET | elojug1, elojug2, elojug3 | json: {'partidasSuperarEloEst'="..."} | |
 
 ## Cómo se levanta el servicio
 

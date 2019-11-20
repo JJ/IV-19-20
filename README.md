@@ -60,6 +60,8 @@ Ver la [especificación de la api](https://github.com/davidluque1/ProyectoIV/blo
 
 · [Especificación de la clase](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_clase.md)
 
+· [Especificación de los tests](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_tests.md)
+
 
 
 
