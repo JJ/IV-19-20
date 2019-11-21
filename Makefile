@@ -23,7 +23,9 @@ start: # inicio del servicio. Ver contenido de startsite.sh para ver la orden es
 	pm2 start startsite.sh --name "servicio"
 
 start-herokucloud: # iniciar en herokucloud
-	gunicorn flask.wsgi:app -b 0000:$(PORT)
+	cd flask
+	gunicorn wsgi:app -b 0000:$(PORT)
+	cd ..
 
 stop: # parar servicio
 	pm2 stop servicio
