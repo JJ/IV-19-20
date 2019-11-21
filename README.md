@@ -15,7 +15,13 @@ La API implementada permitirá:
 
 · Obtener la expectancia de un jugador A frente a un jugador B
 
-· Obtener el nuevo Elo del jugador A tras ganar, perder o empatar una partida contra un jugador B
+· Obtener el nuevo elo del jugador A tras ganar, perder o empatar una partida contra un jugador B
+
+· Obtener el nº de victorias consecutivas necesarias para que jugador A supere en elo al jugador B (el elo de B desciende, el de A aumenta hasta equilibrarse)
+
+· Obtener el nº de victorias consecutivas necesarias para que un jugador A llegue a un elo B jugando siempre contra jugadores de su mismo elo (que va cambiando)
+
+· Obtener el nº de victorias consecutivas necesarias para que un jugador A llegue a un elo B jugando siempre contra jugadores con elo C
 
 · Obtener el percentil del Elo del jugador A (no implementado todavía)
 
