@@ -30,11 +30,11 @@ La implementación de estas historias de usuario se encuentra [aquí](https://gi
 
 ## Requisitos
 
-· Python 3.7 
+* Python 3.7 
 
-· pip3 (instalado por defecto en Python 3.4 o superior)
+* pip3 (instalado por defecto en Python 3.4 o superior)
 
-· NodeJS. Puede haber problemas si la versión de nodeJS está muy desactualizada
+* NodeJS. Puede haber problemas si la versión de nodeJS está muy desactualizada
 
 ## Instalación
 
