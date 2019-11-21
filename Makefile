@@ -20,6 +20,9 @@ test: # testear todo
 start: # inicio del servicio. Ver contenido de startsite.sh para ver la orden específica de gunicorn
 	pm2 start startsite.sh --name "servicio"
 
+start-herokucloud: # iniciar en herokucloud
+	
+
 stop: # parar servicio
 	pm2 stop servicio
 
