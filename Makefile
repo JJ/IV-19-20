@@ -21,7 +21,7 @@ start: # inicio del servicio. Ver contenido de startsite.sh para ver la orden es
 	pm2 start startsite.sh --name "servicio"
 
 start-herokucloud: # iniciar en herokucloud
-	
+	startsite.sh
 
 stop: # parar servicio
 	pm2 stop servicio
