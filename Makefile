@@ -1,3 +1,5 @@
+.PHONY: clean-pyc install test_jugador test_api test start start-herokucloud stop restart show delete coverage
+
 clean-pyc: # limpiado de ficheros basura de python
 	find . -name '*.pyc' -exec rm --force {} +
 	find . -name '*.pyo' -exec rm --force {} +
