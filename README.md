@@ -38,7 +38,7 @@ La implementación de estas historias de usuario se encuentra [aquí](https://gi
 
 * pip3 (instalado por defecto en Python 3.4 o superior)
 
-* NodeJS. Puede haber problemas si la versión de nodeJS está muy desactualizada
+* NodeJS. Puede haber problemas si la versión de nodeJS está muy desactualizada.
 
 ## Instalación
 
