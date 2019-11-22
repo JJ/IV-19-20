@@ -54,9 +54,16 @@ Ver la [especificación de la api](https://github.com/davidluque1/ProyectoIV/blo
 
 
 ## Herramienta de construcción
+
 [Archivo Makefile](https://github.com/davidluque1/ProyectoIV/blob/master/Makefile)
 
 > buildtool: Makefile
+
+
+## Despliegue
+
+Despliegue: https://proyectoivelo.herokuapp.com
+
 
 ## Información adicional
 
@@ -71,6 +78,8 @@ Ver la [especificación de la api](https://github.com/davidluque1/ProyectoIV/blo
 * [Especificación de la clase](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_clase.md)
 
 * [Especificación de los tests](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_tests.md)
+
+* [Despliegue en Heroku](https://github.com/davidluque1/ProyectoIV/blob/master/docs/despliegue_heroku.md)
 
 
 
