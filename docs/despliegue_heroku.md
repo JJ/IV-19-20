@@ -6,15 +6,20 @@ Antes que nada, para desplegar en Heroku me he creado una cuenta, me he descarga
 
 Las órdenes deben hacerse desde el directorio principal de nuestro repositorio.
 
-Instalación: _sudo snap install --classic heroku_
+Instalación de la CLI: _sudo snap install --classic heroku_
+
 Login: _heroku login_
+
 Creación del repositorio: _heroku create proyectoivelo --buildpack heroku/python_
+
 Desplegar: _git push heroku master_
 
 
 [Procfile](https://github.com/davidluque1/ProyectoIV/blob/master/Procfile)
 
-web: make start-herokucloud
+Su contenido es:
+
+_web: make start-herokucloud_
 
 Descripción: Heroku usa esta orden para ejecutar el servicio. La orden ejecutada en el makefile es _gunicorn wsgi:app -b 0000:$(PORT)_. PORT es la variable de entorno que indica el puerto.
 
