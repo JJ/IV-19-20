@@ -13,6 +13,10 @@ URI
 |/PartidasSuperarJugador| GET | elojug1, elojug2| json: {'partidasSuperarJugador'="..."} | |
 |/PartidasSuperarElo | GET | elojug1, elojug2 | | json: {'partidasSuperarElo'="..."} |
 |/PartidasSuperarEloEst | GET | elojug1, elojug2, elojug3 | json: {'partidasSuperarEloEst'="..."} | |
+|/AniadirJugador | PUT | nombre | [^1] | |
+|/EliminarJugador | DELETE | nombre | [^1] | |
+
+[^1]: Tengo que consultar qué deberían devolver
 
 ## Cómo se levanta el servicio
 

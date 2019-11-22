@@ -130,7 +130,7 @@ def aniadir_jugador():
 
 	outfile.close()
 
-	return "ok"
+	return ""
 
 @app.route('/EliminarJugador', methods = ['DELETE'])
 def eliminar_jugador():
@@ -156,6 +156,6 @@ def eliminar_jugador():
 
 	outfile.close()
 
-	return "ok"
+	return ""
 
 

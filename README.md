@@ -23,6 +23,10 @@ La API implementada permitirá:
 
 · Obtener el nº de victorias consecutivas necesarias para que un jugador A llegue a un elo B jugando siempre contra jugadores con elo C
 
+· Añadir un jugador al sistema
+
+· Eliminar un jugador del sistema
+
 · Obtener el percentil del Elo del jugador A (no implementado todavía)
 
 La implementación de estas historias de usuario se encuentra [aquí](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
