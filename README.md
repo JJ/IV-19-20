@@ -60,17 +60,17 @@ Ver la [especificación de la api](https://github.com/davidluque1/ProyectoIV/blo
 
 ## Información adicional
 
-· [Entorno de desarrollo](https://github.com/davidluque1/ProyectoIV/blob/master/docs/entorno.md)
+* [Entorno de desarrollo](https://github.com/davidluque1/ProyectoIV/blob/master/docs/entorno.md)
 
-· [Integración continua y herramientas de construcción](https://github.com/davidluque1/ProyectoIV/blob/master/docs/ci_herramientas_construccion.md)
+* [Integración continua y herramientas de construcción](https://github.com/davidluque1/ProyectoIV/blob/master/docs/ci_herramientas_construccion.md)
 
-· [Especificaciones matemáticas](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_matematicas.md)
+* [Especificaciones matemáticas](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_matematicas.md)
 
-· [Especificación API](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
+* [Especificación API](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
 
-· [Especificación de la clase](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_clase.md)
+* [Especificación de la clase](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_clase.md)
 
-· [Especificación de los tests](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_tests.md)
+* [Especificación de los tests](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_tests.md)
 
 
 
