@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify, Response
 import json
 from Jugador import Jugador
+import os
+
 
 app = Flask(__name__)
 
@@ -103,7 +105,57 @@ def partidas_superar_elo_est():
 	return Response(json.dumps(data), mimetype='application/json')
 
 
+@app.route('/Jugadores')
+def conseguir_jugadores():
+	path = 'fichero_prueba.json'
+	with open(path) as data_file:
+		jugadores = json.load(data_file)
 
 	
+	return Response(json.dumps(jugadores), mimetype='application/json')
+
+@app.route('/AniadirJugador', methods = ['PUT'])
+def aniadir_jugador():
+
+	path = 'fichero_prueba.json'
+	with open(path) as data_file:
+		data = json.load(data_file)
+
+	data_file.close()
+	data['jugadores'].append({'nombre': request.args['nombre'], 'elo': '0', 'k': '0'})
+
+
+	with open('fichero_prueba.json', 'w') as outfile:
+		json.dump(data, outfile)
+
+	outfile.close()
+
+	return "ok"
+
+@app.route('/EliminarJugador', methods = ['DELETE'])
+def eliminar_jugador():
+
+	path = 'fichero_prueba.json'
+	with open(path) as data_file:
+		data = json.load(data_file)
+
+	data_file.close()
+
+
+
+	contador = 0
+	for attrs in data['jugadores']:
+		for key,value in attrs.items():
+			if (key=="nombre" and value == request.args['nombre']):
+				del data['jugadores'][contador]
+		
+		contador+=1
+
+	with open('fichero_prueba.json', 'w') as outfile:
+		json.dump(data, outfile)
+
+	outfile.close()
+
+	return "ok"
 
 
