@@ -10,12 +10,12 @@ app = Flask(__name__)
 @app.route('/', methods=['GET'])
 def inicio():
 	status = {"status": "OK"}
-	return json.dumps(status)
+	return jsonify(status="OK")
 
 @app.route('/status', methods=['GET'])
 def estado():
 	status = {"status": "OK"}
-	return json.dumps(status)
+	return jsonify(status="OK")
 
 @app.errorhandler(404)
 def page_not_found(e):
