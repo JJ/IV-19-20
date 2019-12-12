@@ -42,7 +42,7 @@ La implementación de estas historias de usuario se encuentra [aquí](https://gi
 
 ## Herramienta de construcción
 
-Buildtool: Makefile
+> buildtool: Makefile
 
 ## Contenedores y despliegue con contenedores
 
