@@ -40,6 +40,9 @@ La implementación de estas historias de usuario se encuentra [aquí](https://gi
 
 * NodeJS. Podría haber problemas si la versión de nodeJS está muy desactualizada.
 
+## Herramienta de construcción
+
+Buildtool: Makefile
 
 ## Contenedores y despliegue con contenedores
 
