@@ -40,32 +40,25 @@ La implementación de estas historias de usuario se encuentra [aquí](https://gi
 
 * NodeJS. Podría haber problemas si la versión de nodeJS está muy desactualizada.
 
-## Instalación
 
-Descargar el repositorio con `git clone`. Situarse en el directorio y ejecutar `make install`. 
+## Contenedores y despliegue con contenedores
 
-## Set-up
+Dockerhub: https://hub.docker.com/r/davidluque/proyectoiv
 
-Ejecutar `make test` para lanzar todos los tests, `make start` para lanzar el servicio, `make stop` para pararlo, `make restart` para reiniciarlo, `make show` para mostrar información sobre proceso y `make delete` para eliminar el servicio de la lista de procesos. En 0.0.0.0:5000 se accederá al servicio.
+Contenedor: https://proyectoivelo-docker.herokuapp.com
 
-## Peticiones
+Contenedor: https://http://proyectoivelo.azurewebsites.net
 
-Ver la [especificación de la api](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificacion_api.md)
+Ver [Contenedores y despliegue con contenedores](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_docker.md)
 
-
-## Herramienta de construcción
-
-[Archivo Makefile](https://github.com/davidluque1/ProyectoIV/blob/master/Makefile) 
-
-> buildtool: Makefile
-
-
-## Despliegue
+## Despliegue sin contenedores
 
 Despliegue: https://proyectoivelo.herokuapp.com
 
 
 ## Información adicional
+
+* [Contenedores y despliegue con contenedores](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_docker.md)
 
 * [Entorno de desarrollo](https://github.com/davidluque1/ProyectoIV/blob/master/docs/entorno.md)
 
