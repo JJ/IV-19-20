@@ -6,9 +6,9 @@ La línea "FROM  python:3.7-slim-buster" indica que usaremos como imagen base la
 
 La línea "WORKDIR /app" pone el directorio de trabajo en la carpeta /app y hace que comandos como RUN, COPY o CMD se ejecuten desde dicha carpeta
 
-La línea "COPY /flask /flask" copia la carpeta /flask en la carpeta definida con WORKDIR (del contenedor)
+La línea "COPY /flask /flask" copia la carpeta /flask en la carpeta /flask (del contenedor), teniendo en cuenta el comando WORKDIR antes especificado
 
-La línea "COPY requirements.txt ." copia requirements.txt en la carpeta definida como WORKDIR (del contenedor)
+La línea "COPY requirements.txt ." copia requirements.txt en "." lo cual equivale a copiar requirements.txt en la carpeta especificada en WORKDIR
 
 La línea "RUN pip install --no-cache-dir -r requirements.txt" ejecuta pip install sobre requirements.txt
 
