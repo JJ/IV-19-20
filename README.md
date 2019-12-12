@@ -47,7 +47,7 @@ Dockerhub: https://hub.docker.com/r/davidluque/proyectoiv
 
 Contenedor: https://proyectoivelo-docker.herokuapp.com
 
-Contenedor: https://http://proyectoivelo.azurewebsites.net
+Contenedor: https://proyectoivelo.azurewebsites.net
 
 Ver [Contenedores y despliegue con contenedores](https://github.com/davidluque1/ProyectoIV/blob/master/docs/especificaciones_docker.md)
 
