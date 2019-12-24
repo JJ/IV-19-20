@@ -158,7 +158,17 @@
 
 # Decimotercera semana
 
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+# Decimocuarta semana
+
+- [x] Terminar hito 5
+- [x] Entender el concepto de despliegue.
 
 
+# Otras semanas
 
-
+- [x] Entregar hito 6
