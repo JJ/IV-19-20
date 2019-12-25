@@ -136,3 +136,13 @@
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 - [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
 - [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+## Semana 14 (9 de diciembre)
+
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
+
+## Semana 15 (16 de diciembre)
+
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
