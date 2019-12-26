@@ -142,3 +142,59 @@
 - [x] Retro de la entrega del hito.
 - [x] Nunca más digáis como hacer login a algo ni cómo descargárselo.
 - [x] Diferencia entre URL público y URL privado de Docker Hub.
+
+## Sesión 12
+
+
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+
+## Sesión 13
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+### Otros objetivos
+
+- [x] A partir de ahora, habrá un "relator" en clase que se ocupe de poner en el grupo de Telegram las preguntas y respuestas que se hagan en clase. Elegiremos a una persona (o varias) al principio de la clase de teoría.
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Retro de la entrega del hito.
+
+- [x] Nunca más digáis como hacer login a algo ni cómo descargárselo.
+- [x] Diferencia entre URL público y URL privado de Docker Hub.
+
+## Sesión 14
+
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
+
+### Otros objetivos
+
+- [x] Haber entregado el hito 6, prepararse para el 7
+
+## Sesión 15
+
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
+
+### Otros objetivos
+
+- [x] Entender los criterios de calificación.
+- [x] Entender los errores comunes:
+- [x] No os copiéis unos de otros, por ejemplo usando un "shell provision" de Vagrant para lanzar la aplicación. No lo hagáis en el siguiente hito.
+- [x] Vagrant no debe lanzar la aplicación. Es para crear máquinas virtuales y aprovisionarlas. Si usáis vagrant para provisionar, ¿lo vais a usar cada vez que cambiéis el fuente?
+- [x] Se miden las prestaciones para elegir la máquina virtual base que vas a usar. No por medirlas o "porque lo han pedido".
+- [X] Pero una vez que se miden, medid alguna cosa razonable y sacad alguna conclusión de lo que se mide. ¿Es razonable el nivel de prestaciones alcanzado?
+- [x] Nadie usa roles en ansible
+- [x] Nadie usa playbooks diferentes con parte común para diferentes máquinas virtuales.
+- [x] Nadie ha consumido el crédito de Azure que se os dio para este hito.
