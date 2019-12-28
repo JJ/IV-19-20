@@ -160,6 +160,18 @@ Semana del 2 de Diciembre (13)
 
 - [x] Entender los conceptos fundamentales de virtualización.
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
-- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
 
+Semana del 9 de Diciembre (14)
+==============================
+
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
+
+Semana del 9 de Diciembre (15)
+==============================
+
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
+- [x] Hacer pruebas con Apache Benchmark sobre máquinas Vagrant y Docker ejecutadas en local. (Vagrant gana)
