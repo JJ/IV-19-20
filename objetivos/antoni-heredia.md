@@ -71,3 +71,18 @@
 5. - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 6. - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 
+## Semana 6
+
+1. - [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+2. - [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+3. - [x] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+4. - [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+5. - [x] Documentar y mantener una plataforma virtual.
+6. - [x] Optimizar aplicaciones sobre plataformas virtuales.
+7. - [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+8. - [x] Realizar tareas de administración en infraestructura virtual.
+
+### Objetivos específicos
+1. - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+2. - [x] Crear infraestructuras virtuales completas.
+3. - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
