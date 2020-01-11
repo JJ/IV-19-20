@@ -170,3 +170,12 @@
 ## Semana del 9 de Diciembre
 - [x] Entender el concepto de hipervisor y de API de cloud.
 - [x] Entender el concepto de despliegue.
+
+## Semana del 16 de Diciembre
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+  
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
+
+- [x] Entender el funcionamiento de google cloud para el despliegue.
+  
+- [x] Entender el funcionamiento de azure cloud para el despliegue. 
