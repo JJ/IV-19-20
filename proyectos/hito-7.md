@@ -32,7 +32,7 @@
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 0.8 |
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR | | |
-|MORENO LOPEZ, JUAN ESTEBAN | | |
+|MORENO LOPEZ, JUAN ESTEBAN |[SinHumo](https://github.com/juaneml/IV_1920_Proyecto) |v.5.1 |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | | |
