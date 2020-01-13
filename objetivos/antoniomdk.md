@@ -127,7 +127,8 @@
 - [x] Entender los conceptos fundamentales de virtualización
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
-## Decimotercera semana
+
+## Semana 13 (2 de diciembre)
 
 - [x] Entender los conceptos fundamentales de virtualización
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
