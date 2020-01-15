@@ -86,3 +86,15 @@
 1. - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 2. - [x] Crear infraestructuras virtuales completas.
 3. - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+## Semana 7
+1. - [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+2. - [x] Documentar y mantener una plataforma virtual.
+
+3. - [x] Realizar tareas de administración en infraestructura virtual.
+
+### Objetivos específicos
+1. - [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+2. - [x] Saber cómo aplicarlos en un caso determinado.
+3. - [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
