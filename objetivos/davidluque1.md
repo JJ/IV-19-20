@@ -172,3 +172,5 @@
 # Otras semanas
 
 - [x] Entregar hito 6
+
+- [x] Progresar en el envío del hito 7
