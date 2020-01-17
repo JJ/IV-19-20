@@ -107,6 +107,14 @@
 
 ## Semana 13 - 02/12
 
-- [] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
 - [x] Usar ansible para provisionar máquina virtual de vagrant.
+
+## Última semana
+
+- [x] Usar roles ansible
+- [x] Trabajar con el plugin de azure para vagrant
+- [x] Desplegar múltiples MV desde un vagrantfile
+- [x] Crear Playbook para el despliegue
+- [x] Despliegue final (hito 7) de la aplicación
