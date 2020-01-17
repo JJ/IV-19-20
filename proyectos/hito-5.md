@@ -39,7 +39,7 @@
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.8 |
 |PINEDA MOCHON, IGNACIO | | |
-|POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.0.3 |
+|POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.0.4 |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | v1.5 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
