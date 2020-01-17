@@ -19,7 +19,7 @@
 |GARCIA JAEN, ALVARO | | |
 |GARCIA PRADOS, SERGIO | | |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v1.2.1 |
-|GONZALEZ GARCIA, FRANCISCO JOSE |[PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.71 |
+|GONZALEZ GARCIA, FRANCISCO JOSE |[PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.72 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
 |KEMP MUÑOZ, MARCEL | | |
