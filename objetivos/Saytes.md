@@ -35,3 +35,10 @@
 - [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [x] Cambio de grupo en Telegram.
+
+
+
+## Convocatoria extraordinaria
+
+- [x] Entrega de los hitos anteriores para subir nota.
+
