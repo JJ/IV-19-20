@@ -70,3 +70,12 @@
   - [x] No añadir la segunda herramienta de CI
 - [x] Probar herramientas de tests con servicios web.
 - [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+
+### objetivos necesarios para el hito 3
+- [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+#### Objetivos específicos
+- [X] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+- [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
