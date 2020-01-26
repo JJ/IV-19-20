@@ -19,7 +19,7 @@
 |GARCIA PRADOS, SERGIO | [MultimediaManagement](https://github.com/sergiogp98/MultimediaManagement) | 0.6.1 **Reenvío** |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | **v0.2.1 Reenvio** |
 |GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | **v2.1** |
-|GUTIERREZ SEGOVIA, JORGE | [MiAgendaPersonal](https://github.com/Saytes/Proyecto-IV) | 1.1 |
+|GUTIERREZ SEGOVIA, JORGE | [MiAgendaPersonal](https://github.com/Saytes/Proyecto-IV) | 1.2 **Extraordinaria** |
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | __v0.2.1 Reenvío__ |
 |KEMP MUÑOZ, MARCEL | [Proyecto_IV - Dealer](https://github.com/MarcelKemp/Proyecto_IV-Dealer) | 2.3 |
 |LEYVA RUIZ, RAFAEL | [AI remote stream](https://github.com/rafaelleru/iv) | 0.2.1 **Reenvio** |
