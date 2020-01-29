@@ -53,16 +53,16 @@
    [x]. Configuración de sistemas de integración continua.
 [x] Comenzar con la configuración de los sistemas de integración
    continua.
-   
+
 [x] Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
-   
+
 [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
 [x] Asignatura y trabajos de fin de grado.
 [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 [x] Comprender los *hooks* de git.
-[x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+[x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 ### Otros objetivos de la Semana
 - [x] Errores comunes en el hito 2 y reenvíos
@@ -80,7 +80,7 @@
 - [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
-### Objetivos necesarios para el hito 4 
+### Objetivos necesarios para el hito 4
 
 - [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 - [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
@@ -89,3 +89,19 @@
 - [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
 - [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+### Objetivos necesarios para el hito 5
+
+- [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [X] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+- [X] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+- [X] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [X] Documentar y mantener una plataforma virtual.
+- [X] Optimizar aplicaciones sobre plataformas virtuales.
+- [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+- [X] Realizar tareas de administración en infraestructura virtual.
+
+#### Objetivos específicos
+ -[X] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+ -[X] Crear infraestructuras virtuales completas.
+ -[X] Comprender los pasos necesarios para la configuración automática de las mismas.
