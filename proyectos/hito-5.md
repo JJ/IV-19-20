@@ -21,7 +21,7 @@
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | **v0.5.1 Reenvio** |
 |KEMP MUÑOZ, MARCEL | | |
-|LEYVA RUIZ, RAFAEL | [AI remote stream](https://github.com/rafaelleru/iv) | 0.5 **extraordinaria** |
+|LEYVA RUIZ, RAFAEL | [AI remote stream](https://github.com/rafaelleru/iv) | 0.5.1 **extraordinaria reenvio** |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | **10.0 Reenvío** |
 |MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.8|
