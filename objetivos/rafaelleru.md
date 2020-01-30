@@ -105,3 +105,14 @@
  -[X] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
  -[X] Crear infraestructuras virtuales completas.
  -[X] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+
+### Objetivos necesarios para el hito 5
+ -[X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+ -[X] Documentar y mantener una plataforma virtual.
+ -[X] Realizar tareas de administración en infraestructura virtual.
+
+#### Objetivos específicos
+ -[X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+ -[X] Saber cómo aplicarlos en un caso determinado.
+ -[X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
