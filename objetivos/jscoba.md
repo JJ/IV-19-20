@@ -86,6 +86,7 @@
 - [ ] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
 - [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
 
-
+## Convocatoria extraordinaria
+- [x] Entender los errores cometidos en la entrega ordinaria y remediarlos en un nuevo proyecto
 
 
