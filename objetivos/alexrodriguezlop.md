@@ -20,4 +20,4 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
-- [x] Poner al final de cada semana los objetivos alcanzados, y siempre antes de la entrega del hito del proyecto.
+- [x] Poner al final de cada semana los objetivos alcanzados, siempre antes de la entrega del hito del proyecto.
