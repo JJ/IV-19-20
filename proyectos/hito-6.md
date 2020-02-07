@@ -49,7 +49,7 @@
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.6 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.8 |
-|SAEZ DE LA COBA, JAVIER | | |
+|SAEZ DE LA COBA, JAVIER | [pycmic-server](https://github.com/jscoba/pycmic-server) | 1.0 **Extraordinaria** |
 |SANCHEZ FERNANDEZ, RAUL | [NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.0 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
