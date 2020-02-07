@@ -23,7 +23,7 @@
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
 |KEMP MUÑOZ, MARCEL | | |
-|LEYVA RUIZ, RAFAEL | | |
+|LEYVA RUIZ, RAFAEL | [AI remote stream](https://github.com/rafaelleru/iv) | 1.0 **extraordinaria** |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | | |
 |MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |2.0|
