@@ -116,3 +116,7 @@
  -[X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
  -[X] Saber cómo aplicarlos en un caso determinado.
  -[X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+
+### Objetivos para el hito 7
+
+   Ya completados
