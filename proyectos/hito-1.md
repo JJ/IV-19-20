@@ -26,7 +26,6 @@
 |LOPEZ RUIZ, EVA | [infraestructuraVirtual](https://github.com/Lopuiz/infraestructuraVirtual) | 0.3 **Reenvío**|
 |LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | 1.5 **Reenvío** |
 |MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.1 |
-|MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v1.1.4 **Reenvío**|
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.2 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.1 |
