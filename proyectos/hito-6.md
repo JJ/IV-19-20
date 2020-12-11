@@ -27,7 +27,6 @@
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | 11.0 |
 |MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.9|
-|MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 0.7.1 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.6 |
